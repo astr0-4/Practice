@@ -27,6 +27,6 @@ void fizzBuzz(int n) {
 
 int main(int argc, const char * argv[])
 {
-    fizzBuzz(16);
+    fizzBuzz(100);
 }
 
